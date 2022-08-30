@@ -1,0 +1,62 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GcodeSend
+</name>
+</assembly>
+<members>
+<member name="T:GcodeSend.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GcodeSend.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GcodeSend.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:GcodeSend.Form1.Habilitar">
+ <summary>
+ Habilita los elementos necesarios
+ No recibe ni devuelve nada
+ </summary>
+</member>
+<member name="M:GcodeSend.Form1.Deshabilitar">
+ <summary>
+ Deshabilita los elementos necesarios
+ No recibe ni devuelve nada
+ </summary>
+</member>
+<member name="M:GcodeSend.Form1.AbrirArchivo(System.String)">
+ <summary>
+ Se encarga de abrir la ruta del archivo y por medio de un objeto streamreader
+ leer el contenido del archivo para volcarlo en un array de retorno con los
+ saltos de línea incluidos.
+ </summary>
+ <param name="ruta"></param>
+ <returns></returns>
+</member>
+<member name="M:GcodeSend.Form1.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+ Se encarga de cargar los valores necesarios.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:GcodeSend.Form1.btnGcode_Click(System.Object,System.EventArgs)">
+ <summary>
+ Se encarga de abrir el dialogo y obtener el path del archivo
+ Vacía el contenido del texto en un rich text
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

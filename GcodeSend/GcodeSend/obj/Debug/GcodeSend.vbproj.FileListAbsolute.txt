@@ -1,0 +1,15 @@
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\bin\Debug\GcodeSend.exe
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\bin\Debug\GcodeSend.pdb
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\bin\Debug\GcodeSend.xml
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.vbprojAssemblyReference.cache
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.Form1.resources
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.Resources.resources
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.vbproj.GenerateResource.cache
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.exe
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.xml
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.pdb
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\bin\Debug\GcodeSend.exe.manifest
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\bin\Debug\GcodeSend.application
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.exe.manifest
+C:\Users\cesar\source\repos\GcodeSend\GcodeSend\obj\Debug\GcodeSend.application
